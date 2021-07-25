@@ -33,6 +33,4 @@ print("10*************************")
 numeros_3 = input("Me fala 2 numeros em linha separadas ")
 lista =[numeros_3]
 print(lista)
-numero1 = input("Adicione um numero ")
-numero2 = input("Adicione um numero ")
-print(numero1 + numero2)
+
